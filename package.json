@@ -1,0 +1,14 @@
+{
+  "name": "opencampus-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Basti Buck",
+  "license": "MIT",
+  "dependencies": {
+    "@testing-library/cypress": "^7.0.4",
+    "cypress": "^6.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
