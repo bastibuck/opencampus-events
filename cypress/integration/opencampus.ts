@@ -1,48 +1,52 @@
-const courseId = 194;
-const tutorName = "Buck, Basti";
+const courseId = 245;
+const tutorName = "Daniel Banck, Basti Buck &";
 const start = "18:00";
 const end = "20:00";
 
 const lessons = [
   {
-    title: "Lesson 02 - HTML",
-    date: "19.04.2021",
+    title: "Lektion 01",
+    date: "19.04.2022",
   },
   {
-    title: "Lesson 03 - HTML & CSS",
-    date: "26.04.2021",
+    title: "Lektion 02",
+    date: "25.04.2022",
   },
   {
-    title: "Lesson 04 - CSS",
-    date: "03.05.2021",
+    title: "Lektion 03",
+    date: "02.05.2022",
   },
   {
-    title: "Lesson 05 - Webentwicklung angewandt",
-    date: "10.05.2021",
+    title: "Lektion 04",
+    date: "09.05.2022",
   },
   {
-    title: "Lesson 06 - JS I",
-    date: "17.05.2021",
+    title: "Lektion 05",
+    date: "16.05.2022",
   },
   {
-    title: "Lesson 07 - JS II",
-    date: "31.05.2021",
+    title: "Lektion 06",
+    date: "23.05.2022",
   },
   {
-    title: "Lesson 08 - Responsive Webdesign",
-    date: "07.06.2021",
+    title: "Lektion 07",
+    date: "30.05.2022",
   },
   {
-    title: "Lesson 09 - Frameworks & Projektarbeit",
-    date: "14.06.2021",
+    title: "Lektion 08",
+    date: "07.06.2022",
   },
   {
-    title: "Lesson 10 - Projektarbeit",
-    date: "21.06.2021",
+    title: "Lektion 09",
+    date: "13.06.2022",
   },
   {
-    title: "Lesson 11 - Präsentationen",
-    date: "05.07.2021",
+    title: "Lektion 10",
+    date: "20.06.2022",
+  },
+  {
+    title: "Lektion 11",
+    date: "27.06.2022",
   },
 ];
 
